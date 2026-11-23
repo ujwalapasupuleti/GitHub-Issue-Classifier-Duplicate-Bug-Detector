@@ -1,0 +1,16 @@
+streamlit
+fastapi
+uvicorn
+transformers
+torch
+sentence-transformers
+scikit-learn
+pandas
+numpy
+requests
+python-dotenv
+pytest
+transformers
+torch
+scikit-learn
+accelerate
